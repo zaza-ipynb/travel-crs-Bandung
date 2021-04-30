@@ -6,9 +6,7 @@ algorithms for TSP (Traveling Sales Person) Problem.
 ## Dependencies
 Install Python 3.7.x or higher and the required libraries :
 ```
-pip install googlemaps
-pip install mysql
-pip install jinja2
+pip install googlemaps jinja2 mysql flask
 ```
 
 or simply just type on command terminal in the same directory:
